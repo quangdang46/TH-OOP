@@ -37,19 +37,12 @@ public class JavaBasic {
     public static int findMinNegativeElement(int a[]) {
         if (a.length == 0)
             return -1;
-        // sinh vien code tai day
-        int min = a[0];
-        boolean found = false;
-        for (int i = 1; i < a.length; i++) {
-            if (a[i] < min && a[i] < 0) {
-                found = true;
+        int min = Integer.MAX_VALUE;
+        for (int i = 0; i < a.length; i++) {
+            if (a[i] < 0 && a[i] < min)
                 min = a[i];
-            }
         }
-        if (!found && a[0] >= 0) {
-            return -1;
-        }
-        return min;
+        return min == Integer.MAX_VALUE ? -1 : min;
     }
 
     public static String getName(String str){
