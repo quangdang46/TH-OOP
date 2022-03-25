@@ -1,0 +1,114 @@
+Mảng
+1) Viết chương trình Java:
+a) Viết hàm public static int maxEven (int [] a) để tìm số chẵn lớn nhất
+trong một mảng.
+b) Viết hàm public static int minOdd (int [] a) để tìm số lẻ nhỏ nhất trong
+một mảng.
+c) Viết hàm public static int sumMEMO (int [] a) để tính tổng giá trị lớn nhất
+số chẵn và số lẻ nhỏ nhất trong một mảng.
+d) Viết hàm public static int sumEven (int [] a) để tính tổng chẵn
+số trong một mảng.
+e) Viết hàm public static int prodOdd (int [] a) để tính tích số lẻ
+số trong một mảng.
+f) Viết hàm public static int idxFirstEven (int [] a) trả về vị trí của
+số chẵn đầu tiên trong mảng.
+g) Viết hàm public static int idxLastOdd (int [] a) trả về vị trí cuối cùng
+số lẻ trong mảng.
+h) Viết hàm public static int [] input (int n) trả về một mảng có n phần tử
+nhập từ bàn phím.
+i) Viết một hàm chính public static void main (String [] args):
+• Nhập n và một mảng có n phần tử từ bàn phím.
+• Gọi các chức năng trên và kiểm tra chúng với dữ liệu đầu vào.
+
+
+String
+1) Viết chương trình Java:
+• Viết một hàm public static String shortName (String str) thành họ và tên.
+Ví dụ: “Nguyen Le Trong Tin” => “Tin Nguyen”.
+• Viết một hàm public static String hashtagName (String str) để tạo tên
+với thẻ bắt đầu bằng #.
+Ví dụ: “Nguyễn Lê Trọng Tín” => “#TinNguyen”.
+• Viết một hàm public static String upperCaseAllVowel (String str) thành
+viết hoa tất cả các chữ cái nguyên âm trong một chuỗi.
+Ví dụ: “Nguyen Le Trong Tin” => “NgUyEn LE TrOng TIn”.
+• Viết một hàm public static String upperCaseAllN (String str) thành chữ hoa tất cả
+n chữ cái trong một chuỗi.
+Ví dụ: “Nguyen Le Trong Tin” => “NguyeN Le TroNg TiN”.
+• Viết một hàm main public static void main (String [] args) để kiểm tra điều trên
+chức năng.
+2) Đối với đoạn văn sau: "Edge Surf tất nhiên cũng tốt hơn rất nhiều, điều này sẽ
+hy vọng giành được một số chuyển đổi của Microsoft. Nó cung cấp thời gian dùng thử, hỗ trợ các phương thức nhập liệu khác như
+cảm ứng và gamepad, cải tiến khả năng tiếp cận, điểm số cao và hình ảnh được điều chỉnh lại. ”
+• Viết hàm public static int countWord (Đoạn chuỗi) để đếm
+số từ trong đoạn văn.
+• Viết hàm public static int countSentences (Đoạn chuỗi) để đếm
+số câu trong đoạn văn.
+• Viết hàm public static int countAppear (Đoạn chuỗi, Từ chuỗi)
+để đếm số lần xuất hiện của từ đó trong đoạn văn.
+• Viết một hàm main public static void main (String [] args) để kiểm tra điều trên
+chức năng.
+OOP, Lớp, Đóng gói
+1) Triển khai lớp Câu lạc bộ được định nghĩa như mô tả bên dưới:
+Thuộc tính:
+• tên: Chuỗi.
+• thắng: int (số trận thắng).
+• draw: int (số lượt rút).
+• lỗ: int (số lỗ).
+Người xây dựng:
+• Hàm tạo không có tham số public Club () (name = “”, thắng = 0, hòa = 0, thua = 0).
+• Hàm tạo với các tham số public Club (Tên chuỗi, int thắng, int hòa, int thua).
+• Copy constructor public Club (Câu lạc bộ câu lạc bộ).
+Phương pháp:
+• public String getName (): trả về tên của câu lạc bộ.
+• public int getWins (): trả về số trận thắng.
+• public int getDraws (): trả về số lần rút thăm.
+• public int getLosses (): trả về số lượng lỗ.
+• public void setName (String name): đặt tên của câu lạc bộ.
+• public void setWins (int won): đặt số lần thắng.
+• public void setDraws (int draw): thiết lập số lần rút.
+• public void setLosses (int lỗ): thiết lập số lượng lỗ.
+• public int numMatchesPlayed (): trả về số trận đấu mà câu lạc bộ đã chơi
+numMatches = thắng + hòa + thua.
+• public boolean isFinish (): Kiểm tra xem câu lạc bộ đã kết thúc giải đấu chưa. Được biết rằng
+giải đấu có 10 trận đấu.
+• public int getPoints (): Trả lại số điểm mà câu lạc bộ đã nhận được
+điểm = thắng * 3 + hòa * 1 + thua * 0.
+• public String toString () với định dạng: Tên câu lạc bộ: thắng / hòa / thua
+Viết một chương trình thử nghiệm (được gọi là TestClub) để kiểm tra tất cả các phương pháp được xác định.
+2) Triển khai lớp RegularPolygon được định nghĩa như mô tả bên dưới:
+Thuộc tính:
+• tên: Chuỗi.
+• egdeAmount: int (số lượng cạnh).
+• egdeLength: gấp đôi (độ dài của cạnh).
+Người xây dựng:
+• Hàm tạo không có tham số public RegularPolygon () (name = “”, edgeAmount = 3,
+vddeLength = 1).
+• Khối mã lệnh với các tham số public RegularPolygon (String name, int edgeAmount,
+gấp đôi cạnhLength).
+• Hàm tạo với các tham số public RegularPolygon (String name, int edgeAmount)
+(ví dụ :deLength = 1).
+• Copy constructor public RegularPolygon (Đa giác RegularPolygon).
+Phương pháp:
+• public String getName (): trả về tên của đa giác.
+• public int getEdgeAmount (): trả về số lượng các cạnh.
+• public int getEdgeLength (): trả về độ dài của cạnh.
+• public void setName (String name): đặt tên của đa giác.
+• public void setEdgeAmount (int num): thiết lập số lượng cạnh.
+• public void setEdgeLength (double length): thiết lập độ dài của cạnh.
+• public String getPolygon ():
+▪ Nếu số cạnh bằng 3 thì trả về "Tam giác",
+▪ Nếu số cạnh bằng 4 thì trả về "Tứ giác",
+▪ Nếu số cạnh bằng 5, thì trả về "Pentagon",
+▪ Nếu số cạnh bằng 6, thì trả về "Hexagon",
+▪ Nếu số cạnh lớn hơn 6, trả về "Đa giác có số
+của các cạnh lớn hơn 6 ".
+• public double getPerimeter (): trả về chu vi của đa giác
+chu vi = egdeLength * egdeAmount.
+• public double getArea (): trả về diện tích của đa giác
+area = (egdeLength) 2 * a
+
+Nếu một đa giác có số cạnh lớn hơn 6 thì diện tích trả về = -1.
+• public String toString () với định dạng: name - PolygonType - Area
+Ví dụ: RegularPolygon rp = new RegularPolygon (“q1”, 4) sẽ được in như
+chuỗi sau: q1 - Tứ giác - 1.
+Viết một chương trình thử nghiệm (được gọi là TestRegularPolygon) để kiểm tra tất cả các phương thức được xác định.
