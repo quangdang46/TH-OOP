@@ -1,0 +1,52 @@
+
+    /* 
+	public ViduFile(String tenFile) {
+		this.file = new File(tenFile);
+	}
+
+	public boolean kiemTraThucThi() {
+		// Kiểm tra file có thể thực thi
+		return this.file.canExecute();
+	}
+
+	public boolean kiemTraDoc() {
+		// Kiểm tra file có thể đọc
+		return this.file.canRead();
+	}
+
+	public boolean kiemTraGhi() {
+		// Kiểm tra file có thể ghi
+		return this.file.canWrite();
+	}
+
+	public void inDuongDan() {
+		System.out.println(this.file.getAbsolutePath());
+	}
+
+	public void inTen() {
+		System.out.println(this.file.getName());
+	}
+
+	public void kiemTraLaThuMucHoacTapTin() {
+		if (this.file.isDirectory()) {
+			System.out.println("Đây là thư mục");
+		} else if (this.file.isFile()) {
+			System.out.println("Đây là tập tin");
+		}
+	}
+
+	public void inDanhSachCacFileCon() {
+		if (this.file.isDirectory()) {
+			System.out.println("Các tập tin con/ thư mục con là:");
+			File[] mangCon = this.file.listFiles();
+			for (File file : mangCon) {
+				System.out.println(file.getAbsolutePath());
+			}
+		} else if (this.file.isFile()) {
+			System.out.println("Đây là tập tin, không có dữ liệu con bên trong.");
+		}
+	}
+
+	
+	}
+    */
