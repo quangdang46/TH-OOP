@@ -1,5 +1,5 @@
 public final class ImageLoader {
-    private static ImageLoader instance;
+    private static ImageLoader instance=null;
 
     private ImageLoader() {
 
