@@ -1,5 +1,5 @@
 public class HaiSan extends MatHang{
-    public String loaiHaiSan;
+    private String loaiHaiSan;
     public HaiSan(String maMH, String tenMH, double giaMH,String loaiHaiSan) {
         super(maMH, tenMH, giaMH);
         this.loaiHaiSan = loaiHaiSan;
