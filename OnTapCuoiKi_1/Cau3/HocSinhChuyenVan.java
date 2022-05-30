@@ -1,5 +1,5 @@
 public class HocSinhChuyenVan extends HocSinh{
-    public String maLop;
+    private String maLop;
     public HocSinhChuyenVan(){
 
     }
