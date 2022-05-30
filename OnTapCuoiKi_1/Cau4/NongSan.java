@@ -1,6 +1,6 @@
 public class NongSan extends MatHang{
 
-    public String loaiNongSan;
+    private String loaiNongSan;
     public NongSan(String maMH, String tenMH, double giaMH,String loaiNongSan) {
         super(maMH, tenMH, giaMH);
         this.loaiNongSan = loaiNongSan;
