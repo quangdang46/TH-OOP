@@ -1,0 +1,230 @@
+CT103_Amos Wolf_0.12_2021670
+CT108_Mr. Derick Berge_3.37_2201452
+CT115_Prof. Twila Nader_8.16_9534326
+CT134_Lavern McGlynn_2.25_6802730
+CT137_Elwyn Green_9.89_7071658
+CT147_Prof. Jamal Hilpert III_4.47_5101263
+CT156_Prof. Selina Stark_8.02_4526287
+CT159_Prof. Daisy VonRueden_9.65_7169336
+CT160_Ms. Raegan Barrows DVM_4.75_9936025
+CT166_Scarlett Casper_2.56_3237623
+CT168_Prof. Katheryn Gleason II_8.09_4930402
+CT189_Kyra Murphy_9.22_3540040
+CT190_Miss Rhianna Skiles II_8.71_8490917
+CT195_Mr. Miles Koepp_0.33_7416384
+CT207_Melvin Spinka Jr._3.71_1824033
+CT216_Margarette McKenzie_5.67_5856925
+CT229_Samson Baumbach_2.88_7072472
+CT234_Brandyn O'Keefe V_8.47_2744399
+CT240_Dr. Antonette Johnston_6.42_7328919
+CT249_Laisha Olson_7.57_6027405
+CT250_Ron Kirlin DDS_6.49_1788972
+CT252_Myles Murphy_1.97_3273822
+CT253_Shemar Kihn II_7.99_6518987
+CT261_Kamron Rippin_9.38_6099892
+CT262_Mr. Jarrod Bergnaum II_1.73_3119797
+CT273_Ruthie Ratke_8.38_6706946
+CT277_Katarina Simonis_0.68_7584592
+CT294_Prof. Meagan Kassulke_7.56_3040309
+CT295_Ms. Emilia Wintheiser_2.42_8676495
+CT323_Lillie Schuppe_7.96_1807569
+CT324_Christian Kessler_2.41_6098724
+CT333_Mrs. Nya McLaughlin_9.56_4498476
+CT346_Shea Dooley Jr._3.22_4504889
+CT348_Lue Grady_9.02_5721070
+CT354_Mackenzie Miller MD_4.77_8944634
+CT374_Colin Lemke_1.33_1127361
+CT384_Jaime Rowe_6.68_8288115
+CT391_Miss Violette Leffler_3.22_4026621
+CT399_Larue Runolfsdottir MD_0.51_6016854
+CT401_Tre Langosh_5.17_6259265
+CT406_Golda Greenholt_2.26_3614173
+CT437_Dennis Lindgren_9.82_5844796
+CT474_Loy Marquardt_4.81_2711497
+CT486_Dorian McClure_7.62_6557118
+CT509_Antoinette Smith_4.82_6679294
+CT518_Elsa Grant_6.6_3374804
+CT548_Karelle Homenick_7.74_4290248
+CT551_Aaron Ziemann_5.24_9782675
+CT553_Prof. Tatyana Grimes_9.9_5994025
+CT557_Herminio Kovacek_4.31_2810030
+CT571_Ms. Estrella Kuphal_9.39_4913689
+CT581_Trey Stoltenberg_2.23_3395824
+CT659_Misty Donnelly_1.66_7980067
+CT682_Martine Deckow_7.87_4154081
+CT694_Mr. Jaydon Skiles_0.8_4529625
+CT697_London Muller_7.73_9404102
+CT702_Estrella Schaefer_8.1_1718177
+CT706_Gust Stroman_7.91_6667338
+CT713_Llewellyn Gislason_3.54_2114314
+CT756_Imani Leffler_5.35_6821722
+CT762_Mr. Abner Gerlach_5.21_4345230
+CT765_Kay Sporer_9.57_3884700
+CT771_Fred Altenwerth I_7.39_1911530
+CT788_Blake Jakubowski_3.15_7713132
+CT819_Domenick Moen_4.73_9014806
+CT823_Miss Mariah Johnson Jr._2.74_9671327
+CT835_Norval Metz DVM_3.0_5618083
+CT848_Estrella Ondricka_9.57_8198460
+CT853_Prof. Jadon Corkery IV_4.32_9349908
+CT895_Jordy Bode_0.87_1536020
+CT913_Bill McDermott_4.8_9368126
+CT946_Mrs. Alize Hauck Jr._9.67_4484900
+CT956_Keven Bechtelar_4.7_9247963
+CT960_Ara Lind_4.87_9080704
+CT994_Mr. Izaiah Haag_5.02_3324131
+CT997_Winnifred Kirlin_7.31_9041726
+QL114_Kaylee Schaden_7.89_3208202_784602
+QL119_Ewald Schimmel_5.47_4365095_940937
+QL122_Modesta Fritsch_7.05_3001162_996501
+QL128_Heaven Mann V_9.24_3280671_678584
+QL146_Dr. Gay Grady PhD_3.82_1640885_874606
+QL162_Ms. Mozell Hermiston III_2.6_4107656_503201
+QL164_Kim Windler III_9.54_6714892_592628
+QL173_Preston McDermott I_4.42_2085079_539431
+QL181_Rosalind Ferry DDS_1.11_4483263_559768
+QL203_Gina Zboncak_6.65_2020204_866133
+QL207_Garnett O'Conner_9.61_4897151_747614
+QL211_Carolyne Hammes_2.61_6911061_704450
+QL218_Melba Roob PhD_4.25_2594783_876474
+QL223_Dr. Elise Kirlin_7.97_1357242_810216
+QL242_Mr. Enoch Hickle_6.29_3120536_810244
+QL252_Louvenia Bode_1.85_5393497_673271
+QL283_Rosario Walker_4.77_4857869_629059
+QL290_Jaylan Towne_1.55_9864794_896521
+QL294_Jeremie Braun II_0.37_9745575_661920
+QL297_Jamil Jast_2.69_6597119_880811
+QL304_Carolyn Rowe_0.37_3056804_912421
+QL319_Miss Aimee Stanton_2.86_7684317_909969
+QL329_Larry Orn_4.46_8997432_549639
+QL364_Jakob Durgan PhD_1.61_4285681_741711
+QL366_Iliana Pagac_1.8_8940468_608038
+QL377_Kathryne Morissette_4.23_1847687_811403
+QL384_Dr. Mya Labadie Jr._3.45_7265706_970304
+QL413_Hayley Breitenberg_5.39_6316370_955728
+QL414_Crawford Haley_3.42_7010558_796397
+QL429_Dr. Ismael Farrell_6.93_2502244_825724
+QL439_Henri Donnelly PhD_0.59_1021162_676409
+QL443_Hailie Carroll_0.18_6121851_584256
+QL446_Donavon Hermiston_2.99_7973830_515004
+QL450_Dr. Jayce Schiller_8.88_8341255_977161
+QL466_Kira Ferry Sr._5.06_9241978_517314
+QL467_Mr. Ray Williamson I_2.71_9054963_940346
+QL470_Gabriel Sporer II_1.85_6795836_960970
+QL543_Theodore Schroeder_3.56_7210711_524426
+QL566_Daron Dooley_0.97_5359631_621977
+QL585_Cristobal Ankunding_2.03_3003589_873408
+QL588_Joelle Schamberger_4.16_5981963_984246
+QL592_Prof. Seamus Fritsch_7.24_2166456_701207
+QL629_Abel Hahn_4.51_4108557_914850
+QL632_Efrain Stark_2.51_7815597_904678
+QL662_Gia Emard_5.37_5122088_830751
+QL678_Parker Cassin_2.94_8604152_641251
+QL729_Prof. Emmet Brown PhD_2.47_2382694_821869
+QL735_Ms. Graciela Bechtelar_4.79_6044812_584843
+QL736_Brielle Bogisich_6.27_8954937_654543
+QL738_Kavon Kautzer_4.37_6167328_983682
+QL751_Dr. Russel Johnston_7.3_8615855_559020
+QL790_Cleta Renner_0.33_5849594_726432
+QL791_Osborne Blick V_4.52_2961872_551906
+QL799_Alison Hintz_1.51_5477351_767410
+QL827_Else Steuber_8.55_3485228_702303
+QL843_Cruz Moen Sr._8.52_7588419_737585
+QL846_Oma Halvorson_3.22_6326663_859278
+QL856_Neil Douglas_9.07_6573352_840310
+QL857_Tate Stamm_2.3_7353202_600159
+QL867_Andreanne Langosh_1.62_6799369_704427
+QL887_Sandra Reichel_6.66_3110923_565427
+QL897_Brooks Blanda_2.54_4253377_565413
+QL900_Margarett Leuschke_6.42_3499970_815038
+QL901_Ora Carter DDS_9.09_1532373_937899
+QL915_Cody Daniel_2.55_4607606_943570
+QL930_Mr. Davin Bruen Jr._6.91_1205360_754980
+QL944_Jessika Turcotte_6.64_3939222_851783
+QL983_Rodolfo Steuber_1.91_5592764_661403
+TV115_Dr. Georgianna Erdman_7295124
+TV132_Rasheed Brown_3182447
+TV141_Buford Cremin II_6585565
+TV144_Merle Skiles_1118399
+TV149_Jadon Howell DDS_1683394
+TV157_Marjory Mraz Jr._8386177
+TV169_Ms. Pearline Harvey V_9613066
+TV172_Lenora Cassin_5954945
+TV173_Dr. Tyree Green IV_1326943
+TV187_Prof. Precious Daugherty II_3352666
+TV190_Prof. Willy Kautzer DDS_6114022
+TV195_Mrs. Britney Heidenreich_9080671
+TV202_Alanna Heller DDS_4846205
+TV218_Prof. Davion Pollich I_6843480
+TV220_Sarina Lind_4837392
+TV237_Keven Gutmann_7971956
+TV240_Miss Mathilde Waelchi III_9152821
+TV241_Darren Treutel_3763817
+TV251_Ms. Mina Connelly Sr._2869813
+TV258_Bradford Wisoky_3001939
+TV274_Marjorie Schiller_2995505
+TV290_Domenico Conroy Jr._6263349
+TV292_Mr. Forrest Simonis V_9324644
+TV293_Murl Bins III_1445313
+TV298_Fritz Littel_2308072
+TV307_Destini Homenick_6936865
+TV308_Trever Osinski_6188103
+TV313_Iva Schiller_9197331
+TV318_Miss Gerda Lind MD_6272971
+TV324_Cloyd Metz_6413861
+TV335_Betty Tremblay Sr._3522862
+TV338_Gerhard Ondricka_4697302
+TV356_Colin Herman V_7132657
+TV367_Jannie Hodkiewicz_6103119
+TV370_Emmitt Hackett_9678193
+TV372_Zander Kuhlman_5506412
+TV391_Ms. Lonie Koch_8085179
+TV396_Prof. Aidan Feest_5169167
+TV397_Margarette Crona Jr._2271486
+TV409_Nedra Hilpert_4849286
+TV420_Dewayne Kuhn_4820765
+TV421_Brando Emard_7459089
+TV435_Ludie O'Connell_1725293
+TV456_Joelle Boyer IV_6175445
+TV463_Lydia Barrows_2326985
+TV466_Mercedes Kub_3821551
+TV478_Luella DuBuque DVM_2032313
+TV480_Pansy Romaguera_2558258
+TV486_Adam Daniel_3803457
+TV500_Audreanne Considine_4983444
+TV511_Alanna Fay DDS_3986584
+TV512_Miss Juanita Brekke Jr._7458386
+TV522_Narciso Schneider_1618779
+TV543_Cleo Schaden_4760732
+TV551_Ms. Alice Bednar PhD_7850410
+TV574_Efren Lang_9620066
+TV575_Prof. Meredith Wiegand I_3398447
+TV614_Adela Kuhic_3974390
+TV615_Dusty Walker_5878219
+TV620_Mr. Hector Hermann Sr._2799850
+TV630_Prof. Karlee Feest MD_8478063
+TV636_Delfina Dibbert_7171615
+TV676_Jordyn Gusikowski_3346072
+TV680_Nyasia Nitzsche II_1881781
+TV725_Libbie Keeling_3606407
+TV736_Quentin Marvin_3352144
+TV739_Mrs. Dandre Stamm I_2325053
+TV743_Geovanni Kunde PhD_4104191
+TV745_Korey DuBuque_2384766
+TV754_Pamela Schulist_9088641
+TV780_Alia Schaefer V_5698283
+TV812_Mellie Bradtke_4027387
+TV813_Sigrid Kuvalis_7017220
+TV841_Aubrey Bernier_7118536
+TV890_Mittie Barrows_3240929
+TV908_Cleora Ruecker_9447963
+TV909_Ms. Estefania Windler MD_5759922
+TV927_Lewis Stracke_2236667
+TV942_Franz D'Amore_7925895
+TV945_Ciara Price MD_9725611
+TV950_Dr. Ardith McGlynn PhD_3364611
+TV961_Prof. Damaris Wunsch_5555294
+TV964_Dr. Fay Boyer Jr._4729041
+TV967_Gonzalo Reynolds_2609732
+TV978_Prof. Enos Gutkowski_3416359
+TV989_Bryon Beier_8072238
